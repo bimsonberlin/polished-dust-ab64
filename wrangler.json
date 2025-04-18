@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "polished-dust-ab64",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "b21f4650-b6cf-4b3f-9c38-0338596e801f",
+      "database_name": "long-math-639d-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
